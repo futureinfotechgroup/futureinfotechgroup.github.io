@@ -1,0 +1,124 @@
+{
+   "CourseDetails":[
+      {
+         "courseName":"Certificate in Financial Accounts",
+         "courseCode":"CIFA001",
+         "duration":"4 months",
+         "students":"15",
+         "topics":"Tally, ACE",
+         "fees":"Rs. 2500/-",
+         "topicCount":"7",
+         "image":"../../../assets/images/blog_1.jpg"
+      },
+      {
+         "courseName":"Dipoloma in Financial Accounts",
+         "courseCode":"CIFA001",
+         "duration":"8 months",
+         "students":"15",
+         "topics":"Tally, ACE,FACT",
+         "fees":"Rs. 2500/-",
+         "topicCount":"7",
+         "image":"../../../assets/images/blog_2.jpg"
+      },
+      {
+         "courseName":"Certificate in Computer Application",
+         "courseCode":"CCA001",
+         "duration":"6 months",
+         "students":"25",
+         "topics":"MS Word, Excel",
+         "fees":"Rs. 2200/-",
+         "topicCount":"8",
+         "image":"../../../assets/images/blog_3.jpg"
+      },
+      {
+         "courseName":"Certificate in Information Technology",
+         "courseCode":"CITA001",
+         "duration":"6 months",
+         "students":"15",
+         "topics":"MS Word, Excel",
+         "fees":"Rs. 2800/-",
+         "topicCount":"10",
+         "image":"../../../assets/images/blog_4.jpg"
+      },
+      {
+         "courseName":"Certificate in Web Designing",
+         "courseCode":"WEB001",
+         "duration":"6 months",
+         "students":"35",
+         "topics":"HTML5, CSS3",
+         "fees":"Rs. 4500/-",
+         "topicCount":"6",
+         "image":"../../../assets/images/blog_5.jpg"
+      },
+      {
+         "courseName":"Certificate in Software Developement",
+         "courseCode":"CISW001",
+         "duration":"12 months",
+         "students":"05",
+         "topics":"Bootstrap, Spring MVC, Html5, PostgreSql",
+         "fees":"Rs. 15000/-",
+         "topicCount":"9",
+         "image":"../../../assets/images/blog_6.jpg"
+      },
+      {
+         "courseName":"Diploma in Software Developement",
+         "courseCode":"DISW001",
+         "duration":"18 months",
+         "students":"05",
+         "topics":"Angular, Spring Boot, Html5, PostgreSql",
+         "fees":"Rs. 18000/-",
+         "topicCount":"10",
+         "image":"../../../assets/images/blog_5.jpg"
+      }
+   ],
+   "HomeUpperDetails":[
+      {
+         "heading1":"Future Infotech",
+         "headng2":"Industrial Training",
+         "description":"We provide Wide range of industies training that will help you to shape you career.",
+         "image":"../../assets/images/slider-01.jpg"
+      },
+      {
+         "heading1":"Future Infotech",
+         "headng2":"Computer Training Institute",
+         "description":"We provide Wide range of courses for Schools and colleges. that will give you a proper direction.",
+         "image":"../../assets/images/slider-02.jpg"
+      },
+      {
+         "heading1":"Future Infotech",
+         "headng2":"Software Solutions",
+         "description":"We provide Wide range of customized software that will help our customer to run their business effectively and smmothly.",
+         "image":"../../assets/images/slider-03.jpg"
+      }
+   ],
+   "HomeHistoryDetails":[
+      {
+         "year":"2020",
+         "description":"Future Infotech imerges as one of the best computer traing institute."
+      },
+      {
+         "year":"2019",
+         "description":"Future Infotech completed 10 years in computer training."
+      },
+      {
+         "year":"2018",
+         "description":"Future Infotech Steps in Software Solutions."
+      },
+      {
+         "year":"2015",
+         "description":"Future Infotech students coount reaches 1000."
+      },
+      {
+         "year":"2012",
+         "description":"Future Infotech students coount reaches 500."
+      },
+      {
+         "year":"2010",
+         "description":"Future Infotech achieves Govt. registration"
+      },
+      {
+         "year":"2009",
+         "description":"Future Infotech Established"
+      }
+   ]
+}
