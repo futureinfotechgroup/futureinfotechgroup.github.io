@@ -1,0 +1,10 @@
+For firebase install below package
+
+npm install -g firebase-tools
+npm install firebase @angular/fire
+npm i firebase angularfire2
+
+For Video Angular, install below package
+
+npm install videogular2 --save
+npm install @types/core-js --save-dev
